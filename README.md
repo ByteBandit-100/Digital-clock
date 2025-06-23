@@ -11,7 +11,7 @@ To use the Digital Clock, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/digital-clock.git
+git clone https://github.com/ByteBandit-100/Digital-clock.git
 ```
 2. Open the `index.html` file in your web browser.
 
